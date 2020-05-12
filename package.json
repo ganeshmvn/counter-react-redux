@@ -1,8 +1,8 @@
 {
-  "name": "react-redux-example",
+  "name": "counter-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ganeshmvn.github.io/counter-react-redux/",
+  "homepage": "https://ganeshmvn.github.io/counter-example/",
   "devDependencies": {
     "react-scripts": "3.4.1",
     "gh-pages": "^2.2.0"
